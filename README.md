@@ -32,7 +32,7 @@
 
 <h3 align="left">🔥 Fun Animation:</h3>
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=FF5733&width=435&lines=Passionate+Developer;React+%7C+JavaScript+%7C+HTML5;Building+Awesome+Things!" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=FF5733&width=435&lines=Passionate+Developer;React+%7C+JavaScript+%7C+HTML5+%7C+TypeScript+%7C+CSS3+%7C+Docker;Building+Awesome+Things!" alt="Typing Animation" />
 </div>
 
 ---
