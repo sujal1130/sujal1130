@@ -24,6 +24,5 @@
 ---
 
 <p align="center">
- 💡 <strong>"Innovate, Code, Elevate!"</strong> ✨ <br/> 
- 🚀 Keep building, keep exploring!
+ 💡 <strong>"Innovate, Code, Elevate!"</strong> ✨, 🚀 Keep building, keep exploring!
 </p>
