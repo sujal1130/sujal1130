@@ -23,14 +23,6 @@
 
 ---
 
-### 📊 GitHub Stats:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourgithubusername&show_icons=true&theme=dark" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourgithubusername&theme=dark" alt="GitHub Streak" />
-</p>
-
----
-
 <p align="center">
  💡 <strong>"Innovate, Code, Elevate!"</strong> ✨ <br/> 
  🚀 Keep building, keep exploring!
