@@ -6,8 +6,32 @@
 
 ---
 
-<p align="center">
- 💡 **"Innovate, Code, Elevate!"** ✨ <br/> 
- 🚀 Keep building, keep exploring!
+### 🚀 About Me:
+- 🔭 I’m currently working on **exciting projects using React & TypeScript**
+- 🌱 I’m learning **Docker & Cloud Technologies & Web Development**
+- 💬 Ask me about **JavaScript, React, TypeScript, and Web Development**
+
+---
+
+### 🛠️ Tech Stack:
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 </p>
 
+---
+
+### 📊 GitHub Stats:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yourgithubusername&show_icons=true&theme=dark" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourgithubusername&theme=dark" alt="GitHub Streak" />
+</p>
+
+---
+
+<p align="center">
+ 💡 <strong>"Innovate, Code, Elevate!"</strong> ✨ <br/> 
+ 🚀 Keep building, keep exploring!
+</p>
