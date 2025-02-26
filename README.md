@@ -7,7 +7,7 @@
 ---
 
 ### 🚀 About Me:
-- 🔭 I’m currently working on **exciting projects using React & TypeScript**
+- 🔭 I’m currently working on **exciting projects using React & TypeScript & Docker & MUI**
 - 🌱 I’m learning **Docker & Cloud Technologies & Web Development**
 - 💬 Ask me about **JavaScript, React, TypeScript, and Web Development**
 
@@ -24,5 +24,5 @@
 ---
 
 <p align="center">
- 💡 <strong>"Innovate, Code, Elevate!"</strong> ✨, 🚀 Keep building, keep exploring!
+ 💡✨ <strong>"Innovate, Code, Elevate!"</strong> ✨, 🚀 Keep building, keep exploring!✨
 </p>
