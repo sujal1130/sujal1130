@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋 Welcome!, I'm Sujal</h1>
 
 <p align="center">
- <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=FF5733&width=600&lines=Innovative+Thinker+%7C+Problem+Solver;Building+Impactful+Solutions!+💡;Driven+by+Passion+%7C+Fueled+by+Curiosity" alt="Typing Animation" />
+ <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=FF5733&width=600&lines=Innovative+Thinker+%7C+Problem+Solver+🚀;Building+Impactful+Solutions!+💡;Driven+by+Passion+%7C+Fueled+by+Curiosity+🔥;Turning+Ideas+into+Reality+⚡;Striving+for+Excellence+🌟;Never+Stop+Learning+📚" alt="Typing Animation" />
 </p>
 
 ---
