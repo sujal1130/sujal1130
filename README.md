@@ -10,6 +10,7 @@
 - 🔭 I’m currently working on **exciting projects using React & TypeScript & Docker & MUI**
 - 🌱 I’m learning **Docker & Cloud Technologies & Web Development**
 - 💬 Ask me about **JavaScript, React, TypeScript, and Web Development**
+- 🚀 Passionate about **innovation, problem-solving, and optimizing user experiences**
 
 ---
 
@@ -29,5 +30,6 @@
 ---
 
 <p align="center">
- 💡✨<strong>"Innovate, Code, Elevate!"</strong> ✨,🔥Keep building, keep exploring and keep pushing boundaries!💡🌍
+✨ <strong>"Innovate, Code, Elevate!"</strong> ✨  
+🔥 Keep building, keep exploring, and keep pushing boundaries! 🌍🚀  
 </p>
