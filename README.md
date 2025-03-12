@@ -42,7 +42,29 @@
 
 ---
 
-<p align="center">
-✨ <strong>"Innovate, Code, Elevate!"</strong> ✨  
-🔥 Keep building, keep exploring, and keep pushing boundaries! 🌍🚀  
-</p>
+## 🚀 Innovation & Growth 🚀
+
+<table align="center">
+  <tr>
+    <td colspan="2" align="center">
+      <h3>✨🚀 Innovate. Code. Elevate. 🚀✨</h3>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <ul>
+        <li>🔥 Dream big, build bigger!</li>
+        <li>💡 Push boundaries, create impact!</li>
+        <li>🌍 The journey of innovation never ends!</li>
+      </ul>
+    </td>
+    <td align="center">
+      <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="200" alt="Support & Star"/>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <strong>Keep exploring, keep growing, and let’s shape the future together! 🌍💡</strong>
+    </td>
+  </tr>
+</table>
