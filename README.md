@@ -44,7 +44,7 @@
 
 ## 🚀 Innovation & Growth 🚀
 
-<table align="center">
+<table >
   <tr>
     <td colspan="2" align="center">
       <h3>✨🚀 Innovate. Code. Elevate. 🚀✨</h3>
@@ -58,7 +58,7 @@
         <li>🌍 The journey of innovation never ends!</li>
       </ul>
     </td>
-    <td align="center">
+    <td>
       <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="200" alt="Support & Star"/>
     </td>
   </tr>
