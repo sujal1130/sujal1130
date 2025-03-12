@@ -44,7 +44,7 @@
 
 ## 🚀 Innovation & Growth 🚀
 
-<table >
+<table align="center">
   <tr>
     <td colspan="2" align="center">
       <h3>✨🚀 Innovate. Code. Elevate. 🚀✨</h3>
@@ -59,7 +59,7 @@
       </ul>
     </td>
     <td>
-      <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="200" alt="Support & Star"/>
+      <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="210" alt="Support & Star"/> <img src="https://media.giphy.com/media/jt7bAtEijhurm/giphy.gif" width="200" alt="Share & Support"/> 
     </td>
   </tr>
   <tr>
