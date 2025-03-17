@@ -42,18 +42,25 @@
 
 ---
 
-## 💡 Developer Wisdom:
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
-</p>
+## 🚀💡 Developer Wisdom: Code. Learn. Inspire. 💡🚀
 
-
----
-
-## 🎯 Current Focus:
-🚀 Exploring **AI & Machine Learning** 🤖  
-🔥 Building **Full-Stack Web Applications** 🌐  
-📚 Learning **GraphQL & Advanced React Patterns**  
+<table align="center">
+  <tr>
+    <td>
+      <p align="center">
+         <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
+      </p>
+    </td>
+    <td>
+      <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="250" alt="Matrix Coding">
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random Dev Quote 2"/>
+    </td>
+  </tr>
+</table>
 
 ---
 
