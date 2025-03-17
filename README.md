@@ -57,10 +57,9 @@
         <li>💡 Push boundaries, create impact!</li>
         <li>🌍 The journey of innovation never ends!</li>
       </ul>
-    </td>
-&nbsp; 
+    </td> 
     <td>
-    <img src="https://media.giphy.com/media/jt7bAtEijhurm/giphy.gif" width="200" alt="Share & Support"/>  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="210" alt="Support & Star"/> 
+    <img src="https://media.giphy.com/media/jt7bAtEijhurm/giphy.gif" width="200" alt="Share & Support"/> &nbsp; <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="210" alt="Support & Star"/> 
     </td>
   </tr>
   <tr>
