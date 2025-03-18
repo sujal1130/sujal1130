@@ -29,8 +29,8 @@
 
 ## 🛠️ Tech Stack:
 
-<table>
-  <tr>
+<table align="center">
+  <tr align="center">
     <th>Tech</th>
     <th>Badge</th>
     <th>Tech</th>
@@ -38,7 +38,7 @@
     <th>Tech</th>
     <th>Badge</th>
   </tr>
-  <tr>
+  <tr align="center">
     <td><strong>React</strong></td>
     <td><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" /></td>
     <td><strong>JavaScript</strong></td>
@@ -46,7 +46,7 @@
     <td><strong>Git</strong></td>
     <td><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" /></td>
   </tr>
-  <tr>
+  <tr align="center">
     <td><strong>TypeScript</strong></td>
     <td><img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" /></td>
     <td><strong>HTML5</strong></td>
@@ -54,7 +54,7 @@
     <td><strong>CSS3</strong></td>
     <td><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" /></td>
   </tr>
-  <tr>
+  <tr align="center">
     <td><strong>MUI</strong></td>
     <td><img src="https://img.shields.io/badge/MUI-007FFF?style=for-the-badge&logo=mui&logoColor=white" alt="MUI" /></td>
     <td><strong>Docker</strong></td>
@@ -76,7 +76,7 @@
       </p>
     </td>
     <td>
-      <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="250" align="center" alt="Matrix Coding">
+      <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="250" alt="Matrix Coding">
     </td>
   </tr>
   <tr>
