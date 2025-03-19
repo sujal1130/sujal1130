@@ -68,23 +68,21 @@
 
 ## 🚀💡 Developer Wisdom: Code. Learn. Inspire. 💡🚀
 
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random Dev Quote" />
+</p>
+
 <table align="center">
- <tr>
-    <td colspan="2" align="center">
-      <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random Dev Quote 2"/>
-    </td>
-  </tr>
   <tr>
-    <td>
-      <p align="center">
-         <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
-      </p>
+    <td align="center">
+      <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
     </td>
-    <td>
-      <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="250" alt="Matrix Coding">
+    <td align="center">
+      <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="250" alt="Matrix Coding"/>
     </td>
   </tr>
 </table>
+
 
 ---
 
