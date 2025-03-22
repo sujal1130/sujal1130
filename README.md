@@ -67,8 +67,6 @@
 
 ---
 
-## 🚀 Innovation & Growth 🚀
-
 <table align="center">
   <tr>
     <td colspan="2" align="center">
