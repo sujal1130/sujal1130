@@ -94,9 +94,7 @@
   </tr>
 </table>
 
----
-
-## 🚀💡 Developer Wisdom: Code. Learn. Inspire. 💡🚀 
+--- 
 
 <table align="center">
   <tr>
