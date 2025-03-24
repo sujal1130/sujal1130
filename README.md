@@ -67,12 +67,9 @@
 
 ---
 
+## ✨🚀 Innovate. Code. Elevate. 🚀✨
+
 <table align="center">
-  <tr>
-    <td colspan="2" align="center">
-      <h3>✨🚀 Innovate. Code. Elevate. 🚀✨</h3>
-    </td>
-  </tr>
   <tr>
     <td>
       <ul>
