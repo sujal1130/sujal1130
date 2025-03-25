@@ -62,9 +62,7 @@
   </tr>
 </table>  
 
----
-
-## ✨🚀 Innovate. Code. Elevate. 🚀✨
+--- 
 
 <table align="center">
   <tr>
@@ -72,6 +70,7 @@
       <ul>
         <li>🔥 Dream big, build bigger!</li>
         <li>💡 Push boundaries, create impact!</li>
+        <li>✨🚀 Innovate. Code. Elevate. 🚀✨</li>
         <li>🌍 The journey of innovation never ends!</li>
       </ul>
     </td> 
