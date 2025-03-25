@@ -1,10 +1,7 @@
 <h1 align="center">Hi 👋 Welcome!, I'm Sujal</h1>
 
-<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=808080&width=700&lines=INNOVATIVE+THINKER+%7C+PROBLEM+SOLVER+🚀;BUILDING+IMPACTFUL+SOLUTIONS!+💡;DRIVEN+BY+PASSION+%7C+FUELED+BY+CURIOSITY+🔥;TURNING+IDEAS+INTO+REALITY+⚡;STRIVING+FOR+EXCELLENCE+🌟;NEVER+STOP+LEARNING+📚" alt="Typing Animation" />
-</p>
-
-
+  
 ---
 
 ## 🚀 About Me:
