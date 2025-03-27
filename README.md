@@ -27,7 +27,7 @@
 
 ## 🛠️ Tech Stack:
 
-<table align="center">
+<table border="1" align="center">
   <tr align="center">
     <th>Tech</th>
     <th>Badge</th>
