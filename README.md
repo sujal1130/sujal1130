@@ -87,7 +87,7 @@
 
 --- 
 
-<table align="center">
+<table border="1" align="center">
   <tr>
     <td align="center">
       <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
