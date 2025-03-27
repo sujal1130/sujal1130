@@ -80,7 +80,7 @@
   </tr>
   <tr>
     <td colspan="2" align="center">
-      <strong>Keep exploring, keep growing, and let’s shape the future together! 🌍💡</strong>
+      <strong>🔥 Keep exploring, keep growing, and let’s shape the future together! 🌍💡</strong>
     </td>
   </tr>
 </table>
