@@ -6,7 +6,7 @@
 
 ## 🚀 About Me:
 
-<table>
+<table border="1">
   <tr>
     <td>
       <ul>
