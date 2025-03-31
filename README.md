@@ -47,10 +47,10 @@
   <tr align="center">
    <td><strong>React</strong></td>
     <td><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" /></td>
-  <td><strong>Docker</strong></td>
-    <td><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" /></td>
     <td><strong>CSS3</strong></td>
     <td><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" /></td>
+    <td><strong>Docker</strong></td>
+    <td><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" /></td>
   </tr>
   <tr align="center">
     <td><strong>TypeScript</strong></td>
