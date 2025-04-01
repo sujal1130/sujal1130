@@ -25,7 +25,7 @@
 
 ---
 
-## 🛠️ Tech Stack:
+## 🛠️ Tech Stack:-
 
 <table border="1" align="center">
   <tr align="center">
