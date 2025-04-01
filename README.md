@@ -71,7 +71,7 @@
         <li>🔥 Dream big, build bigger! 🔥</li>
         <li>💡 Push boundaries, create impact! 💡</li>
         <li>✨🚀 Innovate. Code. Elevate. 🚀✨</li>
-        <li>🌍 The journey of innovation never ends!</li>
+        <li>🌍 The journey of innovation never ends! 🌍</li>
       </ul>
     </td> 
     <td>
