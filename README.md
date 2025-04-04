@@ -87,13 +87,13 @@
 
 --- 
 
-<table border="1" align="center">
-  <tr>
-    <td align="center">
-      <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
-    </td>
-    <td align="center">
-      <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="250" alt="Matrix Coding"/>
-    </td>
-  </tr>
-</table>
+<!-- <table border="1" align="center"> -->
+<!--   <tr> -->
+<!--     <td align="center"> -->
+<!--       <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/> -->
+<!--     </td> -->
+<!--     <td align="center"> -->
+<!--       <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="250" alt="Matrix Coding"/> -->
+<!--     </td> -->
+<!--   </tr> -->
+<!-- </table> -->
