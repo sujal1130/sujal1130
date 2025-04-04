@@ -16,6 +16,7 @@
         <li>🚀 Passionate about <b>innovation, problem-solving, and optimizing user experiences</b></li>
         <li>🏛️ I also have a <b>keen interest in architecture.</b></li>
         <li>🎮 I'm also <b>interested in game development and building idea-driven games.</b></li>
+        <li>🏏 I’m also <b>passionate about cricket.</b></li>
       </ul>
     </td>
     <td>
