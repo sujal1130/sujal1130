@@ -28,7 +28,7 @@
 
 ---
 
-## 🛠️ Tech Stack :-
+## 🛠️ Tech Stack <img src="gif.gif" alt="gif" width="80"> :-
 
 <table border="1" align="center">
   <tr align="center">
