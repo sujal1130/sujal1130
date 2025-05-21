@@ -63,6 +63,13 @@
     <td><strong>Docker</strong></td>
     <td><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" /></td>    
   </tr>
+   <tr align="center">
+    <td><strong>Python</strong></td>
+    <td><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" /></td>
+     <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
 </table>  
 
 --- 
