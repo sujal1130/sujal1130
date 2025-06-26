@@ -48,7 +48,7 @@
     <td><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" /></td>
   </tr>
   <tr align="center">
-   <td><strong>React</strong></td>
+    <td><strong>React</strong></td>
     <td><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" /></td>
     <td><strong>HTML5</strong></td>
     <td><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" /></td>
@@ -63,14 +63,15 @@
     <td><strong>Docker</strong></td>
     <td><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" /></td>    
   </tr>
-   <tr align="center">
+  <tr align="center">
     <td><strong>Python</strong></td>
     <td><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" /></td>
-     <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-</table>  
+    <td><strong>Next.js</strong></td>
+    <td><img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" /></td>
+    <td><strong>Tailwind CSS</strong></td>
+    <td><img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" /></td>
+  </tr>
+</table> 
 
 --- 
 
